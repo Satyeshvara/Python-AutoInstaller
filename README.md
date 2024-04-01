@@ -8,9 +8,9 @@
 
 <b>Step 1:</b> Download -
 
-Method 1 (Command Prompt): <b>git clone https://github.com/satishkumarsingh2024/Python-AutoInstaller.git</b>    
-Method 2 (Command Prompt): <b>curl -LJ0 https://github.com/satishkumarsingh2024/Python-AutoInstaller/archive/Python-AutoInstaller.zip</b>    
-Method 3 (Command Prompt): <b>wget https://github.com/satishkumarsingh2024/Python-AutoInstaller/archive/Python-AutoInstaller.zip</b>    
+Method 1 (Command Prompt): <b>`git clone https://github.com/satishkumarsingh2024/Python-AutoInstaller.git`</b>    
+Method 2 (Command Prompt): <b>`curl -LJ0 https://github.com/satishkumarsingh2024/Python-AutoInstaller/archive/Python-AutoInstaller.zip`</b>    
+Method 3 (Command Prompt): <b>`wget https://github.com/satishkumarsingh2024/Python-AutoInstaller/archive/Python-AutoInstaller.zip`</b>    
 Method 4: Click on <b>Download ZIP</b> manually.    
 
 <b>Step 2:</b> Extract <b>Python-AutoInstaller.zip</b> using Command Prompt or WinRAR. (Only for Method 2, 3, and 4).    
