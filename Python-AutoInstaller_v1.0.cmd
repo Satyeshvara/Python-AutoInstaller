@@ -1,5 +1,5 @@
 @echo off
-set PYTHON_VERSION=3.11.9
+set PYTHON_VERSION=3.12.3
 set PYTHON_INSTALLER_URL=https://www.python.org/ftp/python/%PYTHON_VERSION%/python-%PYTHON_VERSION%-amd64.exe
 
 set DOWNLOADS_DIR=%USERPROFILE%\Downloads
